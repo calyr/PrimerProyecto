@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrimerProyecto</string>
+
+    <string name="hello_world">Bienvenido</string>
+    <string name="btn">Entrar</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
